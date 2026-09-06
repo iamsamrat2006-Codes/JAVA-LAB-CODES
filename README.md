@@ -1,3 +1,9 @@
+<img width="1200" height="675" alt="dhurandhar" src="https://github.com/user-attachments/assets/beda5035-5607-4a13-98bb-3e3a684f8d94" />
+
+
+
+
+
 THIS GITHUB REPOSITORY CONTAINS THE JAVA LAB CODES WHICH ARE PROVIDED BY MY COLLEGE.
 
 ***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
