@@ -3,20 +3,24 @@ THIS GITHUB REPOSITORY CONTAINS THE JAVA LAB CODES WHICH ARE PROVIDED BY MY COLL
 ***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
 Display the information in a properly formatted form. ***
 
-Ans:- StudentDetails.java 
+## Student Details
 
-> cd "c:\Users\SAMRAT\OneDrive\Documents\JAVA LAB CODES\" ; if ($?) { javac StudentDetails.java } ; if ($?) { java StudentDetails }
+WAP in Java to accept a student's name, roll number, age, and department. Display the information in a properly formatted form.
 
-Output Terminal : 
+[`Answer`](StudentDetails.java)
+
+`Output Terminal`
+
+```TERMINAL
 --- INPUT ---
- - Name: SAMRAT MUKHERJEE
- - Roll number: 7
- - Age: 20
- - Department: CSE 
+Name        : SAMRAT MUKHERJEE
+Roll number : 7
+Age         : 20
+Department  : CSE
 
 --- OUTPUT ---
-Name        : SAMRAT MUKHERJEE
-Age         : 20
+Name : SAMRAT MUKHERJEE
+Age : 20
 Roll number : 7
-Department  : CSE 
-PS C:\Users\SAMRAT\OneDrive\Documents\JAVA LAB CODES>
+Department : CSE
+```
