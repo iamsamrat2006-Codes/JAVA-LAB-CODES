@@ -1,10 +1,6 @@
 <img width="800" height="400" alt="dhurandhar" src="https://github.com/user-attachments/assets/beda5035-5607-4a13-98bb-3e3a684f8d94" />
 
-
-
-
-
-                                            ***AB JAVA KA FIELDING SET HUM KARENGE***
+  ***AB JAVA KA FIELDING SET HUM KARENGE***
 
 ---
 
