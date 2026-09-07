@@ -7,6 +7,13 @@
 
 `THIS GITHUB REPOSITORY CONTAINS THE JAVA LAB CODES WHICH ARE PROVIDED BY MY COLLEGE.`
 
+---
+
+| SL.NO | QUESTION | LINK |
+| :--- | :---: | ---: |
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+
 ***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
 Display the information in a properly formatted form. ***
 ## Student Details
