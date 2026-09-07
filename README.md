@@ -11,8 +11,8 @@
 
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| 1.| Student Details | [LINK](StudentDetails.java)|
+| 2.| Row 2 Col 2 | Row 2 Col 3 |
 
 ***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
 Display the information in a properly formatted form. ***
