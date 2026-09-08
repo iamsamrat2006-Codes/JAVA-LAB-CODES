@@ -1,7 +1,8 @@
-/*
-WAP in Java to accept a student's name, roll number, age, and department.
-Display the information in a properly formatted form..
-*/
+//@SAMRAT_MUKHERJEE
+
+// WAP in Java to accept a student's name, roll number, age, and department.
+// Display the information in a properly formatted form..
+
 
 import java.util.Scanner;
 
