@@ -8,6 +8,11 @@
 `THIS GITHUB REPOSITORY CONTAINS THE JAVA LAB CODES WHICH ARE PROVIDED BY MY COLLEGE.`
 
 ---
+***UNDERSTANDING HOW CODE RUNS***
+<img width="766" height="457" alt="WhatsApp Image 2026-09-04 at 6 11 59 PM" src="https://github.com/user-attachments/assets/0c393289-88a3-49ed-8244-52cac2c2b8c2" />
+<img width="1226" height="453" alt="WhatsApp Image 2026-09-04 at 6 10 16 PM" src="https://github.com/user-attachments/assets/5b4b5acf-5438-4b25-8115-f6a1b8b65aff" />
+<img width="525" height="548" alt="WhatsApp Image 2026-09-04 at 6 20 37 PM" src="https://github.com/user-attachments/assets/bb0612c6-818a-4b6f-bc39-e17baab1dc8a" />
+
 
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
