@@ -16,8 +16,8 @@
 
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
-| 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#student-details)|
-| 2.|Temperature Converter | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#temperature-converter) |
+| 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#1student-details)|
+| 2.|Temperature Converter | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#2temperature-converter) |
 | 3.| Simple Calculator| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#3simple-calculator) |
 | 4.| Even or Odd| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#4even-or-odd)|
 | 5.| Positive, Negative or Zero| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#5positive-negative-or-zero) |
