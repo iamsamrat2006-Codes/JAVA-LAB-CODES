@@ -59,17 +59,17 @@
 `Output Terminal`
 
 ```text
---- INPUT ---
-Name        : SAMRAT MUKHERJEE
-Roll number : 7
-Age         : 20
-Department  : CSE
+Enter student name: ROHIT SHARMA
+Enter roll number: 18
+Enter age: 20
+Enter department: CSE
 
---- OUTPUT ---
-Name : SAMRAT MUKHERJEE
-Age : 20
-Roll number : 7
+----- Student Information -----
+Name       : ROHIT SHARMA
+Roll Number: 18
+Age        : 20
 Department : CSE
+
 ```
 ---
 **( QUESTION 2) Accept temperature in Celsius and convert it into Fahrenheit. Formula: F = (C × 9/5) +32**
@@ -77,21 +77,15 @@ Department : CSE
 
 
 > [!NOTE]
-formula to convert celsius to FAHRENHEIT F = (C * 9/5) + 32
-
-$F = (C \times \frac{9}{5}) + 32$ 
-
+formula to convert celsius to FAHRENHEIT $F = (C \times \frac{9}{5}) + 32$ 
 
 `Answer` [TempConvert_2.java](questions/TempConvert_2.java)
 
 `Output Terminal`
 
 ```text
---- INPUT ---
- - Temperature in °C: 25
-
---- OUTPUT ---
-25.0°C = 77.0°F
+Enter temperature in Celsius: 25
+25.00 Celsius is equal to 77.00 Fahrenheit.
 
 ```
 ---
@@ -101,11 +95,20 @@ $F = (C \times \frac{9}{5}) + 32$
 
 
 
-`Answer` [.java]()
+`Answer` [SimpleCalculator_3.java]()
 
 `Output Terminal`
 
 ```text
+Enter first number: 10
+Enter second number: 5
+Enter operator (+, -, *, /): /
+Result = 2.0
+
+Enter first number: 10
+Enter second number: 2
+Enter operator (+, -, *, /): +
+Result = 12.0
 
 ```
 ---
@@ -113,11 +116,16 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 4.Even or Odd
 
-`Answer` [.java]()
+`Answer` [Even_Odd_4.java]()
 
 `Output Terminal`
 
 ```text
+Enter an integer: 6
+Even
+
+Enter an integer: 9
+Odd
 
 ```
 
@@ -127,11 +135,16 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 5.Positive, Negative or Zero
 
-`Answer` [.java]()
+`Answer` [SignCheck_5.java]()
 
 `Output Terminal`
 
 ```text
+Enter a number: -5
+Negative
+
+Enter a number: 10
+Positive
 
 ```
 
@@ -141,11 +154,13 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 6.Sum of Natural Numbers
 
-`Answer` [.java]()
+`Answer` [SumOF1_N_6.java]()
 
 `Output Terminal`
 
 ```text
+Enter n: 10
+Sum = 55
 
 ```
 
@@ -155,11 +170,22 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 7.Multiplication Table
 
-`Answer` [.java]()
+`Answer` [MultiplicationTABLE_7.java]()
 
 `Output Terminal`
 
 ```text
+Enter a number: 6
+6 x 1 = 6
+6 x 2 = 12
+6 x 3 = 18
+6 x 4 = 24
+6 x 5 = 30
+6 x 6 = 36
+6 x 7 = 42
+6 x 8 = 48
+6 x 9 = 54
+6 x 10 = 60
 
 ```
 
@@ -169,11 +195,13 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 8.Count Digits
 
-`Answer` [.java]()
+`Answer` [CountDigits_8.java]()
 
 `Output Terminal`
 
 ```text
+Enter an integer: 12345678
+Number of digits = 8
 
 ```
 
@@ -183,11 +211,13 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 9.Reverse a Number
 
-`Answer` [.java]()
+`Answer` [ReverseInteger_9.java]()
 
 `Output Terminal`
 
-```text
+```text 
+Enter an integer: 12345
+Reverse = 54321
 
 ```
 
@@ -197,7 +227,7 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 10.Sum of Digits
 
-`Answer` [.java]()
+`Answer` [SumOfDigits_10.java]()
 
 `Output Terminal`
 
@@ -210,11 +240,13 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 11. Rectangle Class
 
-`Answer` [.java]()
+`Answer` [RectangleClass_11.java]()
 
 `Output Terminal`
 
 ```text
+Area = 50.0
+Perimeter = 30.0
 
 ```
 
@@ -224,11 +256,13 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 12. Circle Class
 
-`Answer` [.java]()
+`Answer` [CircleClass_12.java]()
 
 `Output Terminal`
 
 ```text
+Area = 153.93804002589985
+Circumference = 43.982297150257104
 
 ```
 
@@ -238,11 +272,23 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 13. Book Class
 
-`Answer` [.java]()
+`Answer` [BookClass_13.java]()
 
 `Output Terminal`
 
 ```text
+Title  : Java Basics
+Author : James
+Price  : 450.0
+
+Title  : Python Guide
+Author : John
+Price  : 500.0
+
+Title  : C Programming
+Author : Dennis
+Price  : 400.0
+
 
 ```
 
@@ -252,11 +298,14 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 14. Student Result
 
-`Answer` [.java]()
+`Answer` [StudentResult_14.java]()
 
 `Output Terminal`
 
 ```text
+Total = 220
+Average = 73.33333333333333
+Result = Pass
 
 ```
 
@@ -266,11 +315,16 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ## 15. Employee Salary
 
-`Answer` [.java]()
+`Answer` [EmployeeSalary_15.java]()
 
 `Output Terminal`
 
 ```text
+Name         : ROHIT SHARMA
+Basic Salary : 30000.0
+HRA          : 6000.0
+DA           : 3000.0
+Gross Salary : 39000.0
 
 ```
 
