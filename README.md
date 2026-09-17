@@ -106,23 +106,9 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ```
 ---
-**\*\*( QUESTION 4 ) Accept an integer and determine whether it is even or odd.\*\***
+**( QUESTION 4 ) Accept an integer and determine whether it is even or odd.**
 
-**## Even or Odd**
-
-`Answer` [.java]()
-
-`Output Terminal`
-
-```text
-
-```
-
----
-
-**\*\*( QUESTION 5 ) Classify an input number as positive, negative, or zero.\*\***
-
-**## Positive, Negative or Zero**
+## 4.Even or Odd**
 
 `Answer` [.java]()
 
@@ -134,23 +120,9 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ---
 
-**\*\*( QUESTION 6 ) Accept n and calculate 1 + 2 + ... + n using a loop.\*\***
+**( QUESTION 5 ) Classify an input number as positive, negative, or zero.**
 
-**## Sum of Natural Numbers**
-
-`Answer` [.java]()
-
-`Output Terminal`
-
-```text
-
-```
-
----
-
-**\*\*( QUESTION 7 ) Accept a number and display its multiplication table from 1 to 10.\*\***
-
-**## Multiplication Table**
+## 5.Positive, Negative or Zero
 
 `Answer` [.java]()
 
@@ -162,23 +134,9 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ---
 
-**\*\*( QUESTION 8 ) Accept an integer and count the number of digits in it.\*\***
+**( QUESTION 6 ) Accept n and calculate 1 + 2 + ... + n using a loop.**
 
-**## Count Digits**
-
-`Answer` [.java]()
-
-`Output Terminal`
-
-```text
-
-```
-
----
-
-**\*\*( QUESTION 9 ) Reverse an integer without converting it into a String.\*\***
-
-**## Reverse a Number**
+## 6.Sum of Natural Numbers
 
 `Answer` [.java]()
 
@@ -190,9 +148,120 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ---
 
-**\*\*( QUESTION 10 ) Accept an integer and calculate the sum of its digits.\*\***
+**( QUESTION 7 ) Accept a number and display its multiplication table from 1 to 10.**
 
-**## Sum of Digits**
+## 7.Multiplication Table
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 8 ) Accept an integer and count the number of digits in it.**
+
+**## 8.Count Digits**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 9 ) Reverse an integer without converting it into a String.**
+
+**## 9.Reverse a Number**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 10 ) Accept an integer and calculate the sum of its digits.**
+
+**## 10.Sum of Digits**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+**( QUESTION 11 ) Create a Rectangle class with length and breadth and methods for area and perimeter. Use an object in main().**
+
+## 11. Rectangle Class
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 12 ) Create a Circle class with radius, a constructor, and methods for area and circumference.**
+
+## 12. Circle Class
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 13 ) Create a Book class with title, author, and price. Use a parameterized constructor and displayBook(). Create three objects.**
+
+## 13. Book Class
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 14 ) Create a Student class with marks of three subjects. Calculate total, average, and result using methods.**
+
+## 14. Student Result
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 15 ) Create an Employee class with ID, name, and basic salary. Calculate HRA (20%), DA (10%), and gross salary.**
+
+## 15. Employee Salary
 
 `Answer` [.java]()
 
