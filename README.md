@@ -92,7 +92,7 @@ $F = (C \times \frac{9}{5}) + 32$
 
 ```
 ---
- **( QUESTION 3 ) Accept two numbers and an operator (+, -, \*, /) and display the result. Use a switch statement**
+**( QUESTION 3 ) Accept two numbers and an operator (+, -, \*, /) and display the result. Use a switch statement**
 
 ## 3.Simple Calculator
 
