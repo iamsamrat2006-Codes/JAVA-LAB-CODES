@@ -16,7 +16,7 @@
 
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
-| 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#student-details)|
+| 1.| Student Details | [LINK](questions/StudentDetails_1.java)|
 | 2.| ------| ---- |
 
 ***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
