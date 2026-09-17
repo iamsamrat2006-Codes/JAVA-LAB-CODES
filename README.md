@@ -17,7 +17,7 @@
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
 | 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#student-details)|
-| 2.|Temperature Converter | [LINK]() |
+| 2.|Temperature Converter | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#temperature-converter) |
 | 3.| Simple Calculator| [LINK]() |
 | 4.| Even or Odd| [LINK]()|
 | 5.| Positive, Negative or Zero| [LINK]() |
@@ -79,7 +79,7 @@ formula to convert celsius to FAHRENHEIT F = (C * 9/5) + 32
 $F = (C \times \frac{9}{5}) + 32$ 
 
 
-`Answer` [TempConvert_2.java](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#temperature-converter)
+`Answer` [TempConvert_2.java](questions/TempConvert_2.java)
 
 `Output Terminal`
 
