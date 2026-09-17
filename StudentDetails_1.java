@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-class StudentDetails
+class StudentDetails_1
 {
     public static void main(String[] args)
     {
@@ -33,3 +33,5 @@ class StudentDetails
         System.out.println("Department  : " + department);
     }
 }
+
+//difference between .nextint() and .nextLine() is that .nextInt() reads only the integer value and does not consume the newline character, while .nextLine() reads the entire line of input including spaces and consumes the newline character. This can lead to issues when mixing these two methods, as seen in the code where we call sc.nextLine() after sc.nextInt() to consume the leftover newline character.
