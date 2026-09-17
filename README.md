@@ -45,13 +45,13 @@
 
 
 
-***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
-Display the information in a properly formatted form. ***
+**( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department,Display the information in a properly formatted form.**
+
 ## Student Details
 
-WAP in Java to accept a student's name, roll number, age, and department. Display the information in a properly formatted form.
 
-`Answer` [StudentDetails.java](questions/StudentDetails_1.java)
+
+`Answer` [StudentDetails_1.java](questions/StudentDetails_1.java)
 
 `Output Terminal`
 
@@ -69,10 +69,9 @@ Roll number : 7
 Department : CSE
 ```
 ---
-***( QUESTION 2) Accept temperature in Celsius and convert it into Fahrenheit. Formula: F = (C × 9/5) + ***
+**( QUESTION 2) Accept temperature in Celsius and convert it into Fahrenheit. Formula: F = (C × 9/5) +32**
 ## Temperature Converter
 
-WAP in Java to accept a student's name, roll number, age, and department. Display the information in a properly formatted form.
 
 > [!NOTE]
 formula to convert celsius to FAHRENHEIT F = (C * 9/5) + 32
@@ -80,10 +79,16 @@ formula to convert celsius to FAHRENHEIT F = (C * 9/5) + 32
 $F = (C \times \frac{9}{5}) + 32$ 
 
 
-`Answer` [name](path link)
+`Answer` [TempConvert_2.java](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#temperature-converter)
 
 `Output Terminal`
 
 ```text
+--- INPUT ---
+ - Temperature in °C: 25
+
+--- OUTPUT ---
+25.0°C = 77.0°F
 
 ```
+---
