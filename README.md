@@ -33,7 +33,7 @@
 |13.| **Book Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#13-book-class) |
 |14.| **Student Result**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#14-student-result) |
 |15.| **Employee Salary**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#15-employee-salary) |
-||<mark>LEVEL 3 -MEDIUM (Arrays and Strings)<\mark>||
+||<mark>LEVEL 3 -MEDIUM (Arrays and Strings)</mark>||
 |16.|Second Largest Element | [LINK]() |
 |17.|Frequency of Elements | [LINK]()|
 |18.|Separate Even and Odd | [LINK]() |
