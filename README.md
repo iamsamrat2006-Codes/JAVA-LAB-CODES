@@ -18,19 +18,19 @@
 | :--- | :---: | ---: |
 | 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#student-details)|
 | 2.|Temperature Converter | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#temperature-converter) |
-| 3.| Simple Calculator| [LINK]() |
-| 4.| Even or Odd| [LINK]()|
-| 5.| Positive, Negative or Zero| [LINK]() |
-| 6.| Sum of Natural Numbers| [LINK]()|
-| 7.| Multiplication Table|[LINK]()|
+| 3.| Simple Calculator| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#3simple-calculator) |
+| 4.| Even or Odd| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#4even-or-odd)|
+| 5.| Positive, Negative or Zero| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#5positive-negative-or-zero) |
+| 6.| Sum of Natural Numbers| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#6sum-of-natural-numbers)|
+| 7.| Multiplication Table|[LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#7multiplication-table)|
 | 8.| Count Digits| [LINK]()|
 | 9.| Reverse a Number| [LINK]() |
 |10.| Sum of Digits| [LINK]()|
-|11.| **Rectangle Class**| [LINK]()|
-|12.| **Circle Class**| [LINK]() |
-|13.| **Book Class**| [LINK]() |
-|14.| **Student Result**| [LINK]() |
-|15.| **Employee Salary**| [LINK]() |
+|11.| **Rectangle Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#11-rectangle-class)|
+|12.| **Circle Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#12-circle-class) |
+|13.| **Book Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#13-book-class) |
+|14.| **Student Result**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#14-student-result) |
+|15.| **Employee Salary**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#15-employee-salary) |
 |16.|Second Largest Element | [LINK]() |
 |17.|Frequency of Elements | [LINK]()|
 |18.|Separate Even and Odd | [LINK]() |
@@ -164,7 +164,7 @@ $F = (C \times \frac{9}{5}) + 32$
 
 **( QUESTION 8 ) Accept an integer and count the number of digits in it.**
 
-**## 8.Count Digits**
+## 8.Count Digits
 
 `Answer` [.java]()
 
@@ -178,7 +178,7 @@ $F = (C \times \frac{9}{5}) + 32$
 
 **( QUESTION 9 ) Reverse an integer without converting it into a String.**
 
-**## 9.Reverse a Number**
+## 9.Reverse a Number
 
 `Answer` [.java]()
 
@@ -192,7 +192,7 @@ $F = (C \times \frac{9}{5}) + 32$
 
 **( QUESTION 10 ) Accept an integer and calculate the sum of its digits.**
 
-**## 10.Sum of Digits**
+## 10.Sum of Digits
 
 `Answer` [.java]()
 
