@@ -3,4 +3,4 @@ git commit -m "update java code"
 git push origin main(for first time )
 git push ( for regular )
 
-git pull
+git pull(for pulling the code which is directly changed in github)
