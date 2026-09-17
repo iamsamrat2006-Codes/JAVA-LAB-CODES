@@ -23,9 +23,9 @@
 | 5.| Positive, Negative or Zero| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#5positive-negative-or-zero) |
 | 6.| Sum of Natural Numbers| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#6sum-of-natural-numbers)|
 | 7.| Multiplication Table|[LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#7multiplication-table)|
-| 8.| Count Digits| [LINK]()|
-| 9.| Reverse a Number| [LINK]() |
-|10.| Sum of Digits| [LINK]()|
+| 8.| Count Digits| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#8count-digits)|
+| 9.| Reverse a Number| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#9reverse-a-number) |
+|10.| Sum of Digits| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#10sum-of-digits)|
 |11.| **Rectangle Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#11-rectangle-class)|
 |12.| **Circle Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#12-circle-class) |
 |13.| **Book Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES#13-book-class) |
