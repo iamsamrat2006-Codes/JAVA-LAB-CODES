@@ -9,29 +9,29 @@ import java.util.Scanner;
 
 class StudentDetails_1
 {
-    public static void main(String[] args)
-    {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in); // Create Scanner object for input
 
-        System.out.println("--- INPUT ---");
-        System.out.print(" - Name: ");
-        String name = sc.nextLine();
+        System.out.print("Enter student name: ");
+        String name = sc.nextLine(); // Read student's name
 
-        System.out.print(" - Roll number: ");
-        int rollNumber = sc.nextInt();
+        System.out.print("Enter roll number: ");
+        int roll = sc.nextInt(); // Read roll number
 
-        System.out.print(" - Age: ");
-        int age = sc.nextInt();
-        sc.nextLine();
+        System.out.print("Enter age: ");
+        int age = sc.nextInt(); // Read student's age
 
-        System.out.print(" - Department: ");
-        String department = sc.nextLine();
+        sc.nextLine(); // Consume the leftover newline
 
-        System.out.println("\n--- OUTPUT ---");
-        System.out.println("Name        : " + name);
-        System.out.println("Age         : " + age);
-        System.out.println("Roll number : " + rollNumber);
-        System.out.println("Department  : " + department);
+        System.out.print("Enter department: ");
+        String department = sc.nextLine(); // Read department
+
+        // Display student information in a formatted form
+        System.out.println("\n----- Student Information -----");
+        System.out.println("Name       : " + name);
+        System.out.println("Roll Number: " + roll);
+        System.out.println("Age        : " + age);
+        System.out.println("Department : " + department);
     }
 }
 
