@@ -75,21 +75,9 @@ Department : CSE
 WAP in Java to accept a student's name, roll number, age, and department. Display the information in a properly formatted form.
 
 > [!NOTE]
-formula to convert celsius to FAHRENHEIT    F = (C * 9/5) + 32
+formula to convert celsius to FAHRENHEIT F = (C * 9/5) + 32
 
-
-
-### 🌡️ Temperature Conversion
-
-To convert temperatures from Celsius to Fahrenheit, use the following formula:
-
-\[F = \left(C \times \frac{9}{5}\right) + 32\]
-
-> **Note:** In your code, you can also write this as `F = (C * 1.8) + 32` for simpler decimal multiplication.
-
-
-
-
+$F = (C \times \frac{9}{5}) + 32$ 
 
 
 `Answer` [name](path link)
