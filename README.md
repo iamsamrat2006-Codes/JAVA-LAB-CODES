@@ -16,21 +16,24 @@
 
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
+|LEVEL 1 - Easy (Foundation building)|
 | 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#1student-details)|
 | 2.|Temperature Converter | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#2temperature-converter) |
 | 3.| Simple Calculator| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#3simple-calculator) |
 | 4.| Even or Odd| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#4even-or-odd)|
-| 5.| Positive, Negative or Zero| [LINK]() |
-| 6.| Sum of Natural Numbers| [LINK]()|
-| 7.| Multiplication Table|[LINK]()|
-| 8.| Count Digits| [LINK]()|
-| 9.| Reverse a Number| [LINK]() |
-|10.| Sum of Digits| [LINK]()|
-|11.| **Rectangle Class**| [LINK]()|
-|12.| **Circle Class**| [LINK]() |
-|13.| **Book Class**| [LINK]() |
-|14.| **Student Result**| [LINK]() |
-|15.| **Employee Salary**| [LINK]() |
+| 5.| Positive, Negative or Zero| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#5positive-negative-or-zero) |
+| 6.| Sum of Natural Numbers| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#6sum-of-natural-numbers)|
+| 7.| Multiplication Table|[LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#7multiplication-table)|
+| 8.| Count Digits| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#8count-digits)|
+| 9.| Reverse a Number| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#9reverse-a-number) |
+|10.| Sum of Digits| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#10sum-of-digits)|
+| LEVEL 2 - Easy+ (Classes, Objects, Methods and Constructors)|
+|11.| **Rectangle Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#11-rectangle-class)|
+|12.| **Circle Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#12-circle-class) |
+|13.| **Book Class**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#13-book-class) |
+|14.| **Student Result**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#14-student-result) |
+|15.| **Employee Salary**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#15-employee-salary) |
+|LEVEL 3 -MEDIUM (Arrays and Strings)|
 |16.|Second Largest Element | [LINK]() |
 |17.|Frequency of Elements | [LINK]()|
 |18.|Separate Even and Odd | [LINK]() |
