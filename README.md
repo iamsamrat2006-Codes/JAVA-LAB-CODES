@@ -17,7 +17,33 @@
 | SL.NO | QUESTION | LINK |
 | :--- | :---: | ---: |
 | 1.| Student Details | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#student-details)|
-| 2.| ------| ---- |
+| 2.|Temperature Converter | [LINK]() |
+| 3.| Simple Calculator| [LINK]() |
+| 4.| Even or Odd| [LINK]()|
+| 5.| Positive, Negative or Zero| [LINK]() |
+| 6.| Sum of Natural Numbers| [LINK]()|
+| 7.| Multiplication Table|[LINK]()|
+| 8.| Count Digits| [LINK]()|
+| 9.| Reverse a Number| [LINK]() |
+|10.| Sum of Digits| [LINK]()|
+|11.| **Rectangle Class**| [LINK]()|
+|12.| **Circle Class**| [LINK]() |
+|13.| **Book Class**| [LINK]() |
+|14.| **Student Result**| [LINK]() |
+|15.| **Employee Salary**| [LINK]() |
+|16.|Second Largest Element | [LINK]() |
+|17.|Frequency of Elements | [LINK]()|
+|18.|Separate Even and Odd | [LINK]() |
+|19.|Array Rotation | [LINK]() |
+|20.|Matrix Addition | [LINK]()|
+|21.|Matrix Diagonal | [LINK]()|
+|22.| Vowel and Consonant Counter| [LINK]() |
+|23.| Word Frequency| [LINK]() |
+|24.| Remove Duplicate Characters| [LINK]() |
+|25.|String Rotation Check | [LINK]() |
+
+
+
 
 ***( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department.
 Display the information in a properly formatted form. ***
@@ -41,4 +67,21 @@ Name : SAMRAT MUKHERJEE
 Age : 20
 Roll number : 7
 Department : CSE
+```
+---
+***( QUESTION 2) Accept temperature in Celsius and convert it into Fahrenheit. Formula: F = (C × 9/5) + ***
+## Temperature Converter
+
+WAP in Java to accept a student's name, roll number, age, and department. Display the information in a properly formatted form.
+
+> [!NOTE]
+formula to convert celsius to FAHRENHEIT    F = (C * 9/5) + 32
+
+
+`Answer` [name](path link)
+
+`Output Terminal`
+
+```text
+
 ```
