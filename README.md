@@ -43,11 +43,11 @@
 |25.|String Rotation Check | [LINK]() |
 
 
-
+---
 
 **( QUESTION 1 ) WAP in Java to accept a student's name, roll number, age, and department,Display the information in a properly formatted form.**
 
-## Student Details
+## 1.Student Details
 
 
 
@@ -70,7 +70,7 @@ Department : CSE
 ```
 ---
 **( QUESTION 2) Accept temperature in Celsius and convert it into Fahrenheit. Formula: F = (C × 9/5) +32**
-## Temperature Converter
+## 2.Temperature Converter
 
 
 > [!NOTE]
@@ -91,4 +91,115 @@ $F = (C \times \frac{9}{5}) + 32$
 25.0°C = 77.0°F
 
 ```
+---
+**( QUESTION 3 ) Accept two numbers and an operator (+, -, *, /) and display the result. Use a switch statement**
+
+## 3.Simple Calculator
+
+
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+---
+**\*\*( QUESTION 4 ) Accept an integer and determine whether it is even or odd.\*\***
+
+**## Even or Odd**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**\*\*( QUESTION 5 ) Classify an input number as positive, negative, or zero.\*\***
+
+**## Positive, Negative or Zero**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**\*\*( QUESTION 6 ) Accept n and calculate 1 + 2 + ... + n using a loop.\*\***
+
+**## Sum of Natural Numbers**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**\*\*( QUESTION 7 ) Accept a number and display its multiplication table from 1 to 10.\*\***
+
+**## Multiplication Table**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**\*\*( QUESTION 8 ) Accept an integer and count the number of digits in it.\*\***
+
+**## Count Digits**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**\*\*( QUESTION 9 ) Reverse an integer without converting it into a String.\*\***
+
+**## Reverse a Number**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**\*\*( QUESTION 10 ) Accept an integer and calculate the sum of its digits.\*\***
+
+**## Sum of Digits**
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
 ---
