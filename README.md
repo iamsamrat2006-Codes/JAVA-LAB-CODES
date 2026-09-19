@@ -329,3 +329,72 @@ Gross Salary : 39000.0
 ```
 
 ---
+**( QUESTION 16 ) Accept n integers and find the second-largest element without sorting the array.**
+
+## 16. Second Largest Element
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 17 ) Accept an integer array and determine how many times each distinct element occurs.**
+
+## 17. Frequency of Elements
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 18 ) Accept an array and create separate arrays for even and odd numbers.**
+
+## 18. Separate Even and Odd
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 19 ) Rotate an array to the right by k positions.**
+
+## 19. Array Rotation
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
+
+**( QUESTION 20 ) Accept two matrices of the same dimensions and calculate their sum.**
+
+## 20. Matrix Addition
+
+`Answer` [.java]()
+
+`Output Terminal`
+
+```text
+
+```
+
+---
