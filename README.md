@@ -336,11 +336,19 @@ Gross Salary : 39000.0
 
 ## 16. Second Largest Element
 
-`Answer` [.java]()
+`Answer` [SecondLargest_16.java](Level_Medium\SecondLargest_16.java)
 
 `Output Terminal`
 
 ```text
+Enter number of elements: 5
+Enter array elements:
+1
+2
+4
+6
+8
+Second Largest = 6
 
 ```
 
@@ -350,11 +358,23 @@ Gross Salary : 39000.0
 
 ## 17. Frequency of Elements
 
-`Answer` [.java]()
+`Answer` [FrequencyofElements_17.java](Level_Medium\FrequencyOfElements_17.java)
 
 `Output Terminal`
 
 ```text
+Enter number of elements: 6
+Enter array elements:
+2
+2
+3
+3
+4
+4
+Frequency of elements:
+2 occurs 2 time(s)
+3 occurs 2 time(s)
+4 occurs 2 time(s)
 
 ```
 
@@ -364,11 +384,25 @@ Gross Salary : 39000.0
 
 ## 18. Separate Even and Odd
 
-`Answer` [.java]()
+`Answer` [SeparateEvenOdd_18.java](Level_Medium\SeparateEvenOdd_18.java)
 
 `Output Terminal`
 
 ```text
+Enter number of elements: 8
+Enter array elements:
+1
+2
+3
+4
+5
+6
+7
+8
+Even elements:
+2 4 6 8 
+Odd elements:
+1 3 5 7 
 
 ```
 
@@ -378,11 +412,23 @@ Gross Salary : 39000.0
 
 ## 19. Array Rotation
 
-`Answer` [.java]()
+`Answer` [ArrayRotation_19.java](Level_Medium\ArrayRotation_19.java)
+
+`TASK` Rotate array to the right by k positions.
 
 `Output Terminal`
 
 ```text
+Enter number of elements: 5
+Enter array elements:
+1
+2
+3
+4
+5
+Enter k: 2
+Array after right rotation:
+4 5 1 2 3 
 
 ```
 
@@ -392,11 +438,21 @@ Gross Salary : 39000.0
 
 ## 20. Matrix Addition
 
-`Answer` [.java]()
+`Answer` [MatrixAddition_20.java](Level_Medium\MatrixAddition_20.java)
 
 `Output Terminal`
 
 ```text
+Enter number of columns: 3
+Enter first matrix:
+1 2 3 
+4 5 6 
+Enter second matrix:
+7 8 9 
+10 11 12
+Sum of matrices:
+8 10 12 
+14 16 18 
 
 ```
 
