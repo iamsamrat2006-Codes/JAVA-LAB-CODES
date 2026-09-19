@@ -54,7 +54,7 @@
 
 
 
-`Answer` [StudentDetails_1.java]()
+`Answer` [StudentDetails_1.java](level_EASY_&_EASY+/StudentDetails_1.java)
 
 `Output Terminal`
 
@@ -79,7 +79,7 @@ Department : CSE
 > [!NOTE]
 formula to convert celsius to FAHRENHEIT $F = (C \times \frac{9}{5}) + 32$ 
 
-`Answer` [TempConvert_2.java]()
+`Answer` [TempConvert_2.java](level_EASY_&_EASY+/TempConvert_2.java)
 
 `Output Terminal`
 
@@ -95,7 +95,7 @@ Enter temperature in Celsius: 25
 
 
 
-`Answer` [SimpleCalculator_3.java]()
+`Answer` [SimpleCalculator_3.java](level_EASY_&_EASY+/SimpleCalculator_3.java)
 
 `Output Terminal`
 
@@ -116,7 +116,7 @@ Result = 12.0
 
 ## 4.Even or Odd
 
-`Answer` [Even_Odd_4.java]()
+`Answer` [Even_Odd_4.java](level_EASY_&_EASY+/EvenOrOdd_4.java)
 
 `Output Terminal`
 
@@ -135,7 +135,7 @@ Odd
 
 ## 5.Positive, Negative or Zero
 
-`Answer` [SignCheck_5.java]()
+`Answer` [SignCheck_5.java](level_EASY_&_EASY+/SignCheck_5.java)
 
 `Output Terminal`
 
@@ -154,7 +154,7 @@ Positive
 
 ## 6.Sum of Natural Numbers
 
-`Answer` [SumOF1_N_6.java]()
+`Answer` [SumOF1_N_6.java](level_EASY_&_EASY+/SumOF1_N_6.java)
 
 `Output Terminal`
 
@@ -170,7 +170,7 @@ Sum = 55
 
 ## 7.Multiplication Table
 
-`Answer` [MultiplicationTABLE_7.java]()
+`Answer` [MultiplicationTABLE_7.java](level_EASY_&_EASY+/MultiplicationTABLE_7.java)
 
 `Output Terminal`
 
@@ -195,7 +195,7 @@ Enter a number: 6
 
 ## 8.Count Digits
 
-`Answer` [CountDigits_8.java]()
+`Answer` [CountDigits_8.java](level_EASY_&_EASY+/CountDigits_8.java)
 
 `Output Terminal`
 
@@ -211,7 +211,7 @@ Number of digits = 8
 
 ## 9.Reverse a Number
 
-`Answer` [ReverseInteger_9.java]()
+`Answer` [ReverseInteger_9.java](level_EASY_&_EASY+/ReverseInteger_9.java)
 
 `Output Terminal`
 
@@ -227,11 +227,13 @@ Reverse = 54321
 
 ## 10.Sum of Digits
 
-`Answer` [SumOfDigits_10.java]()
+`Answer` [SumOfDigits_10.java](level_EASY_&_EASY+/SumOfDigits_10.java)
 
 `Output Terminal`
 
 ```text
+Enter an integer: 1234
+Sum of digits = 10
 
 ```
 
@@ -240,7 +242,7 @@ Reverse = 54321
 
 ## 11. Rectangle Class
 
-`Answer` [RectangleClass_11.java]()
+`Answer` [RectangleClass_11.java](level_EASY_&_EASY+/RectangleClass_11.java)
 
 `Output Terminal`
 
@@ -256,7 +258,7 @@ Perimeter = 30.0
 
 ## 12. Circle Class
 
-`Answer` [CircleClass_12.java]()
+`Answer` [CircleClass_12.java](level_EASY_&_EASY+/CircleClass_12.java)
 
 `Output Terminal`
 
@@ -272,7 +274,7 @@ Circumference = 43.982297150257104
 
 ## 13. Book Class
 
-`Answer` [BookClass_13.java]()
+`Answer` [BookClass_13.java](level_EASY_&_EASY+/BookClass_13.java)
 
 `Output Terminal`
 
@@ -298,7 +300,7 @@ Price  : 400.0
 
 ## 14. Student Result
 
-`Answer` [StudentResult_14.java]()
+`Answer` [StudentResult_14.java](level_EASY_&_EASY+/StudentResult_14.java)
 
 `Output Terminal`
 
@@ -315,7 +317,7 @@ Result = Pass
 
 ## 15. Employee Salary
 
-`Answer` [EmployeeSalary_15.java]()
+`Answer` [EmployeeSalary_15.java](level_EASY_&_EASY+/EmployeeSalary_15.java)
 
 `Output Terminal`
 
