@@ -336,7 +336,7 @@ Gross Salary : 39000.0
 
 ## 16. Second Largest Element
 
-`Answer` [SecondLargest_16.java](Level_Medium\SecondLargest_16.java)
+`Answer` [SecondLargest_16.java](Level_Medium/SecondLargest_16.java)
 
 `Output Terminal`
 
@@ -358,7 +358,7 @@ Second Largest = 6
 
 ## 17. Frequency of Elements
 
-`Answer` [FrequencyofElements_17.java](Level_Medium\FrequencyOfElements_17.java)
+`Answer` [FrequencyofElements_17.java](Level_Medium/FrequencyOfElements_17.java)
 
 `Output Terminal`
 
@@ -384,7 +384,7 @@ Frequency of elements:
 
 ## 18. Separate Even and Odd
 
-`Answer` [SeparateEvenOdd_18.java](Level_Medium\SeparateEvenOdd_18.java)
+`Answer` [SeparateEvenOdd_18.java](Level_Medium/SeparateEvenOdd_18.java)
 
 `Output Terminal`
 
@@ -412,7 +412,7 @@ Odd elements:
 
 ## 19. Array Rotation
 
-`Answer` [ArrayRotation_19.java](Level_Medium\ArrayRotation_19.java)
+`Answer` [ArrayRotation_19.java](Level_Medium/ArrayRotation_19.java)
 
 `TASK` Rotate array to the right by k positions.
 
@@ -438,7 +438,7 @@ Array after right rotation:
 
 ## 20. Matrix Addition
 
-`Answer` [MatrixAddition_20.java](Level_Medium\MatrixAddition_20.java)
+`Answer` [MatrixAddition_20.java](Level_Medium/MatrixAddition_20.java)
 
 `Output Terminal`
 
