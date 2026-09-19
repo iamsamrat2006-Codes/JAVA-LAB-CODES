@@ -34,11 +34,12 @@
 |14.| **Student Result**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#14-student-result) |
 |15.| **Employee Salary**| [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#15-employee-salary) |
 || 🟡 **LEVEL 3 - MEDIUM (Arrays and Strings)** 🟡 ||
-|16.|Second Largest Element | [LINK]() |
-|17.|Frequency of Elements | [LINK]()|
-|18.|Separate Even and Odd | [LINK]() |
-|19.|Array Rotation | [LINK]() |
-|20.|Matrix Addition | [LINK]()|
+|16.|Second Largest Element | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#16-second-largest-element) |
+|17.|Frequency of Elements | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#17-frequency-of-elements)|
+|18.|Separate Even and Odd | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#18-separate-even-and-odd) |
+|19.|Array Rotation | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#19-array-rotation) |
+|20.|Matrix Addition | [LINK](https://github.com/iamsamrat2006-Codes/JAVA-LAB-CODES/blob/main/README.md#20-matrix-addition)|
+
 |21.|Matrix Diagonal | [LINK]()|
 |22.| Vowel and Consonant Counter| [LINK]() |
 |23.| Word Frequency| [LINK]() |
@@ -329,7 +330,7 @@ DA           : 3000.0
 Gross Salary : 39000.0
 
 ```
-
+---
 ---
 **( QUESTION 16 ) Accept n integers and find the second-largest element without sorting the array.**
 
